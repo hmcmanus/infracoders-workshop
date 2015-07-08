@@ -57,7 +57,7 @@ To see your box catalog:
 
 To manually add the box instead, you would do this:
 ```
-# vagrant box add --name packer-desktop-workshop packer_centos-7.0-dvd-workshop_virtualbox.box
+# vagrant box add --name packer-desktop-workshop builds/packer_desktop_virtualbox.box
 ```
 
 *NB: you don't need to do this.*
